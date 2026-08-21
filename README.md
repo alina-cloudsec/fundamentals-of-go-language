@@ -71,3 +71,8 @@ protect cloud systems, which is exactly why I am learning it.
 I am still adding new folders as I learn more. In the future, I plan
 to build bigger, full sized projects with Go, not just small practice
 files.
+
+---
+```bash
+>  **Note:** Honestly, I didn't know that Go has such strict rules for curly brackets `{`. Coming from a C and C++ background, I am used to writing code in that format, so I didn't pay much attention to it at first and just wrote it that way. But when compiling, I got syntax errors, which led me to research and discover Go's strict styling rules. Over the next one or two days, I will be fixing the formatting across all my codes.
+
