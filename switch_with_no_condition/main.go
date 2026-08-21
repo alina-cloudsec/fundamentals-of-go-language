@@ -1,10 +1,8 @@
 package main
 import "fmt"
-func main() 
-{
+func main() {
 	score := 85
-	switch 
-  {
+	switch {
 	case score >= 90:
 		fmt.Println("A+ grade, Excellent performance")
 	case score >= 80:
@@ -17,3 +15,4 @@ func main()
 		fmt.Println("F grade, Failed")
 	}
 }
+
